@@ -9,7 +9,7 @@ ul {
     margin-left: auto;
     margin-right: auto;
     border: 3px rgb(65, 74, 77) solid;
-    flex-direction: row-reverse;
+    flex-direction: none;
     flex-wrap: wrap;
 
 
